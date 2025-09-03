@@ -37,7 +37,7 @@ app.get('/hello', (req, res) => {
 
 
     res.sendStatus("สวัสดี ! ");
-}); // // เติม method และ response function
+}); // // เติม method และ 
 
 app.get('/health', (req, res) => {
 
